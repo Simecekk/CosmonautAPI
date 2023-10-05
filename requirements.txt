@@ -1,0 +1,7 @@
+fastapi==0.103.2
+uvicorn==0.23.2
+SQLAlchemy==1.4.49
+asyncpg==0.28.0
+databases==0.8.0
+aiormq==6.7.7
+python-decouple==3.8
