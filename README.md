@@ -24,7 +24,7 @@ To start using this project, follow these steps:
 
 4. **Run the Application**:
 - ```bash
-  uvicorn app.main:app --reload
+  uvicorn main:app --reload
   ```
 
 ## RabbitMQ Speed Test
